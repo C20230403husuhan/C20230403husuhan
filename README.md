@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @C20230403husuhan
 - 👀 I’m interested in CSP-J
-- 🌱 I’m currently learning Interval Dynamic Programming
+- 🌱 I’m currently learning Tree
 - 📫 My Luogu account:[C20230403husuhan](https://www.luogu.com.cn/user/502017)
 
 <!---
